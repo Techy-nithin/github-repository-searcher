@@ -2,6 +2,12 @@
 
 A Java Spring Boot backend application that integrates with the GitHub REST API to search repositories, store repository information in PostgreSQL, and retrieve saved repositories using filters and sorting.
 
+## Live Deployment
+
+- **Live API:** https://github-repository-searcher-1qqg.onrender.com
+- **Swagger Documentation:** https://github-repository-searcher-1qqg.onrender.com/swagger-ui/index.html
+- **OpenAPI Specification:** https://github-repository-searcher-1qqg.onrender.com/v3/api-docs
+
 ## Features
 
 - Search GitHub repositories by name or keyword.
